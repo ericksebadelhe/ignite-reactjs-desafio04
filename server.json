@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://p2.trrsf.com/image/fget/cf/1200/1200/filters:quality(85)/images.terra.com/2021/07/10/1533441312-shutterstock378226756.jpg",
+      "name": "Pizza",
+      "price": "19.90",
+      "description": "Qualquer pizza ai",
+      "available": true,
+      "id": 4
     }
   ]
 }
